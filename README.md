@@ -120,5 +120,3 @@ Distributed under the **Apache-2.0 License**.
 **Shubham Bhoir**
 GitHub: [https://github.com/shubhambhoir393-stack](https://github.com/shubhambhoir393-stack)
 
-
-Just tell me!
