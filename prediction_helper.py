@@ -1,3 +1,5 @@
+# codebasics ML course: codebasics.io, all rights reserverd
+
 import pandas as pd
 import joblib
 
