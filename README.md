@@ -45,7 +45,6 @@ Two separate models are used depending on age:
 | ML              | Pandas, Scikit-Learn, Joblib |
 | Deployment      | Streamlit                    |
 | Version Control | Git & GitHub                 |
-| Training Source | Codebasics ML Course         |
 
 ---
 
